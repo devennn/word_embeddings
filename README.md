@@ -1,3 +1,3 @@
-# word_embeddings
+# Word Embedddings
 
-Exploring Word Embeddings
+Exploring Word Embedding model
