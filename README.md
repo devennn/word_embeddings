@@ -1,3 +1,3 @@
 # word_embeddings
 
-For learning
+Exploring Word Embeddings
